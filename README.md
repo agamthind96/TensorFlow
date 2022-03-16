@@ -4,4 +4,4 @@
 
 ## Topics which we will be covering here is :
 ##### 1. Deep Learning basics : https://github.com/agamthind96/TensorFlow/blob/main/Starting_with_Deep_Learning.ipynb
-##### 2. TensorFlow Fundamentals :
+##### 2. TensorFlow Fundamentals : https://github.com/agamthind96/TensorFlow/blob/main/00_tensorflow_fundamentals.ipynb
